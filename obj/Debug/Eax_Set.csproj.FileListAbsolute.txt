@@ -1,0 +1,14 @@
+C:\Users\L\Documents\Eax_Set\bin\Debug\Eax_Set.exe.config
+C:\Users\L\Documents\Eax_Set\bin\Debug\Eax_Set.exe
+C:\Users\L\Documents\Eax_Set\bin\Debug\Eax_Set.pdb
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.csproj.AssemblyReference.cache
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.Properties.Resources.resources
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.csproj.GenerateResource.cache
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.exe
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.pdb
+C:\Users\L\Documents\Eax_Set\bin\Debug\Resources\EffectsBackground.png
+C:\Users\L\Documents\Eax_Set\bin\Debug\Resources\Share_Bttn_GradMnu32_Close.bmp
+C:\Users\L\Documents\Eax_Set\bin\Debug\Resources\Share_Bttn_GradMnu32_Minimise.bmp
+C:\Users\L\Documents\Eax_Set\obj\Debug\Eax_Set.Form1.resources
+C:\Users\L\Documents\Eax_Set\bin\Debug\Resources\EAX_Sldr_Horizontal14.bmp
